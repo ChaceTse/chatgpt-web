@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://avatars.githubusercontent.com/u/26705066',
-      name: 'Zhao',
+      name: 'Easy AI',
       description: 'Star on <a href="https://github.com/ChaceTse/chatgpt-web" class="text-blue-500" target="_blank" >GitHub</a>',
     },
   }
